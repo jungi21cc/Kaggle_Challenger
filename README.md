@@ -1,4 +1,4 @@
-# ML-in-R
+# Machine Learning
 
 Kaggle competition
 
