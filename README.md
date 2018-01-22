@@ -1,9 +1,11 @@
 # Machine Learning
 
+Machine Learning training
+  - Iris specis classification
+  - MNIST digits classification
+  
 Kaggle competition
-
-Iris specis classification
-
-Titanic survival prediction
+  - Titanic : Machine Learning form disaster
+  - Digit Recognizer
 
 
