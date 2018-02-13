@@ -8,4 +8,4 @@ Kaggle competition
   - Titanic : Machine Learning form disaster
   - Digit Recognizer
 
-
+https://www.kaggle.com/jungi21cc
