@@ -7,5 +7,6 @@ Machine Learning training
 Kaggle competition
   - Titanic : Machine Learning form disaster
   - Digit Recognizer
+  - New York City taxi Trip Duration
 
 https://www.kaggle.com/jungi21cc
