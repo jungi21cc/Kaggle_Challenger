@@ -9,6 +9,9 @@
   - Digit Recognizer #score - 0.9917 # Top 30%
   - New York City taxi Trip Duration # in process
   - Toxic Comment Classification Challenge #score - 0.9772  # Top 57%
+  - House Prices : Advanced Regression Techniques #score - 0.11560 # Top 9%
+
+
 
 kaggle link
 https://www.kaggle.com/jungi21cc
