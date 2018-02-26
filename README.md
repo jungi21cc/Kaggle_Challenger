@@ -4,7 +4,7 @@
   - Iris specis classification # logistic regression / neural network / support vector machine
   - MNIST digits classification # convolutional neural network
   
-### Kaggle competition (2/19/2018 updated)
+### Kaggle competition (2/26/2018 updated)
   - Titanic : Machine Learning form disaster #score - 0.7799 # Top 49%
   - Digit Recognizer #score - 0.9917 # Top 30%
   - New York City taxi Trip Duration # in process
