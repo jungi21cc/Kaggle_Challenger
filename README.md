@@ -1,6 +1,6 @@
 # Machine Learning
 
-  ![alt text](https://github.com/jungi21cc/MachineLearning/blob/master/Deep_Learning_Icons_R5_PNG.jpg.png?raw=true "MachineLearning")
+  ![alt text](https://github.com/jungi21cc/MachineLearning/blob/master/image/Deep_Learning_Icons_R5_PNG.jpg.png?raw=true "MachineLearning")
 
 ### Kaggle competition (3/04/2018 updated)
 
