@@ -11,7 +11,7 @@
   - Toxic Comment Classification Challenge #score - 0.9851  # Top 18%
   - House Prices : Advanced Regression Techniques #score - 0.11560 # Top 9%
 
-  ![alt text](/home/jk/Documents/dev/MachineLearning/Deep_Learning_Icons_R5_PNG.jpg.png "MachineLearning")
+  ![alt text](https://github.com/jungi21cc/MachineLearning/blob/master/Deep_Learning_Icons_R5_PNG.jpg.png?raw=true "MachineLearning")
 
 
 kaggle link
