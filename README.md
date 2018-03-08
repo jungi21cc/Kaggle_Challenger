@@ -2,7 +2,7 @@
 
 ![alt text](/image/Deep_Learning.png "cover_image")
 
-### Kaggle competition (3/07/2018 updated)
+### Kaggle competition (3/07/2018 updated) [Junki Cho | Kaggle](https://www.kaggle.com/jungi21cc)
 
   - Titanic : Machine Learning form disaster
 
@@ -23,8 +23,6 @@
   - House Prices : Advanced Regression Techniques
 
       #score - 0.11560 # Top 9%
-
-[Junki Cho | Kaggle](https://www.kaggle.com/jungi21cc)
 
 ### Machine Learning / Deep Learning / Reinforcement Learning
   - Iris specis classification # logistic regression / neural network / support vector machine
