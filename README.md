@@ -2,7 +2,7 @@
 
 ![alt text](/image/Deep_Learning.png "cover_image")
 
-### Kaggle competition (3/07/2018 updated) [Junki Cho | Kaggle](https://www.kaggle.com/jungi21cc)
+### Kaggle competition (3/10/2018 updated) [Junki Cho | Kaggle](https://www.kaggle.com/jungi21cc)
 
   - Titanic : Machine Learning form disaster
 
@@ -18,7 +18,7 @@
 
   - Toxic Comment Classification Challenge
 
-      #score - 0.9851  # Top 18%
+      #score - 0.9867  # Top 7% (269/4123)
 
   - House Prices : Advanced Regression Techniques
 
