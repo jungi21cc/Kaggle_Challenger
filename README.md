@@ -2,7 +2,7 @@
 
 ![alt text](/image/Deep_Learning.png "cover_image")
 
-### Kaggle competition (3/10/2018 updated) [Junki Cho | Kaggle](https://www.kaggle.com/jungi21cc)
+### Kaggle competition (3/11/2018 updated) [Junki Cho | Kaggle](https://www.kaggle.com/jungi21cc)
 
   - Titanic : Machine Learning form disaster
 
@@ -10,7 +10,7 @@
 
   - Digit Recognizer
 
-      #score - 0.99199 # Top 28%
+      #score - 0.99457 # Top 17%
 
   - New York City taxi Trip Duration
 
