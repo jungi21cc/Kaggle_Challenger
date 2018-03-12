@@ -1,6 +1,6 @@
 # Machine Learning
 
-![alt text](/image/Deep_Learning.png "cover_image")
+![alt text](/image/KAGGLE+hUB101.png "cover_image")
 
 ### Kaggle competition (3/11/2018 updated) [Junki Cho | Kaggle](https://www.kaggle.com/jungi21cc)
 
