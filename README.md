@@ -2,7 +2,7 @@
 
 ![alt text](/image/KAGGLE+hUB101.png "cover_image")
 
-### Kaggle Top Ranker (3/21/2018 updated) [Junki Cho | Kaggle](https://www.kaggle.com/jungi21cc)
+### Kaggle Top Ranker (4/1/2018 updated) [Junki Cho | Kaggle](https://www.kaggle.com/jungi21cc)
 
 ### Featured
 
@@ -14,7 +14,7 @@
 
   - 2018 Data Science Bowl (in process)
 
-      #score - 0.314  # Top 42%
+      #score - 0.419  # Top 16%
 
 ### Playground
 
@@ -26,7 +26,7 @@
 
   - Titanic : Machine Learning form disaster (in process)
 
-      #score - 0.81339 # Top 6%
+      #score - 0.81339 # Top 5%
 
   - Digit Recognizer (in process)
 
@@ -34,4 +34,4 @@
 
   - House Prices : Advanced Regression Techniques (in process)
 
-      #score - 0.11560 # Top 9%
+      #score - 0.11560 # Top 7%
