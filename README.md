@@ -16,6 +16,13 @@
 
       #score - 0.419  # Top 16%
 
+### Recruitment
+
+  - Airbnb New User Bookings (closed competition)
+
+      #score - 0.86252 # closed competition
+
+
 ### Playground
 
   - New York City taxi Trip Duration (closed competition)
